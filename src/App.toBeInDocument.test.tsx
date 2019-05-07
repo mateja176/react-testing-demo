@@ -4,5 +4,5 @@ import App from './App';
 
 it('renders welcome message', () => {
   const { getByText } = render(<App />);
-  expect(getByText('src/App.tsx?')).toBeInTheDocument();
+  expect(getByText('src/App.tsx')).toBeInTheDocument();
 });
