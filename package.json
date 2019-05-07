@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
-    "@types/enzyme": "^3.9.1"
+    "@types/enzyme": "^3.9.1",
+    "@types/enzyme-adapter-react-16": "^1.0.5",
+    "jest-enzyme": "^7.0.2"
   }
 }
